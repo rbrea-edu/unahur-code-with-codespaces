@@ -12,11 +12,11 @@ La prueba final de nuestro Codespace es ponernos en la posición de un desarroll
 
 1. Seleccionar la pestaña **Codespaces** para mostrar la lista de Codespaces creados.
 
-   <img width="250" alt="list of codespaces" src="../images/codespaces-list.png" />
+   <img width="250" alt="list of codespaces" src="https://github.com/rbrea-edu/unahur-code-with-codespaces/blob/main/.github/images/codespaces-list.png?raw=true" />
 
 1. Encontrar la entrada activa, seleccionar el menú de tres puntos `...`, y seleccionar el comando **Delete** (Eliminar).
 
-   <img width="500" alt="delete codespace command" src="../images/delete-codespace-command.png" />
+   <img width="500" alt="delete codespace command" src="https://github.com/rbrea-edu/unahur-code-with-codespaces/blob/main/.github/images/delete-codespace-command.png?raw=true" />
 
 > [!TIP]
 > Se pueden administrar todos los Codespaces en todos los proyectos en https://github.com/codespaces

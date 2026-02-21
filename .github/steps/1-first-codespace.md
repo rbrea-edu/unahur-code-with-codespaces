@@ -33,13 +33,13 @@ Un Codespace tiene varias ventajas/características en comparación con el desar
 
 1. Sobre la lista de archivos a la derecha, hacer clic en el botón verde **<> Code** (Código).
 
-   <img width="300" alt="green code button" src="../images/green-code-button.png" />
+   <img width="300" alt="green code button" src="https://github.com/rbrea-edu/unahur-code-with-codespaces/blob/main/.github/images/green-code-button.png?raw=true" />
 
 1. Seleccionar la pestaña **Codespaces** y hacer clic en el botón **Create codespace on main** (Crear codespace en main). Se abrirá una nueva ventana ejecutando VS Code y se conectará al Codespace remoto. Esperar unos minutos para que se cree el codespace.
 
 1. Mirar en la parte inferior izquierda de la ventana de VS Code para ver la conexión remota.
 
-   <img width="350" alt="remote connection status in VS Code" src="../images/remote-connection-status.png"/>
+   <img width="350" alt="remote connection status in VS Code" src="https://github.com/rbrea-edu/unahur-code-with-codespaces/blob/main/.github/images/remote-connection-status.png?raw=true"/>
 
 > [!TIP]
 > GitHub usa la imagen de Codespace [universal](https://github.com/devcontainers/images/tree/main/src/universal) si el repository no incluye una configuración. Incluye varias herramientas útiles y comúnmente usadas.
@@ -50,11 +50,11 @@ Un Codespace tiene varias ventajas/características en comparación con el desar
 
 1. En la barra lateral izquierda, seleccionar la pestaña **Explorer** (Explorador) y abrir el archivo `src/hello.py`.
 
-   <img width="250" alt="vs code explorer tab" src="../images/vs-code-explorer-tab.png" />
+   <img width="250" alt="vs code explorer tab" src="https://github.com/rbrea-edu/unahur-code-with-codespaces/blob/main/.github/images/vs-code-explorer-tab.png?raw=true" />
 
 1. En el panel inferior, seleccionar la pestaña **TERMINAL**.
 
-   <img width="350" alt="vs code terminal tab" src="../images/vs-code-terminal-tab.png" />
+   <img width="350" alt="vs code terminal tab" src="https://github.com/rbrea-edu/unahur-code-with-codespaces/blob/main/.github/images/vs-code-terminal-tab.png?raw=true" />
 
 1. Pegar el siguiente comando en el terminal remoto del Codespace para mostrar las versiones instaladas de varias herramientas. Anotar las versiones para comparar más adelante.
 

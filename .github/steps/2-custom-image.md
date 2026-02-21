@@ -40,7 +40,7 @@ Creemos este archivo y establezcamos algunas de las configuraciones más comunes
 
 1. Después de guardar, VS Code probablemente mostró una notificación indicando que detectó un cambio de configuración. Se puede **Aceptar** esa opción para reconstruir el container de desarrollo o manualmente usar la Paleta de Comandos (Command Palette) (`CTRL`+`Shift`+`P`) y ejecutar el comando `Codespaces: Rebuild Container`. Seleccionar la opción **Rebuild** (Reconstruir). No es necesaria una construcción completa.
 
-   <img width="350" alt="rebuild codespace command" src="../images/rebuild-codespace-command.png"/>
+   <img width="350" alt="rebuild codespace command" src="https://github.com/rbrea-edu/unahur-code-with-codespaces/blob/main/.github/images/rebuild-codespace-command.png?raw=true"/>
 
 1. Esperar unos minutos para que el Codespace se reconstruya y VS Code se reconecte.
 
